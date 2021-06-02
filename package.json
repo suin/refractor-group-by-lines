@@ -1,6 +1,6 @@
 {
   "name": "@suin/refractor-group-by-lines",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "A utility to embed line information to Refractor ASTs",
   "keywords": [
     "refractor",
